@@ -1,2 +1,5 @@
 
+
 1 helt ny textfil4 i ny branch 2.0_gren
+1 helt ny textfil i ny branch 3.0_gren
+fixat en merge sparat det jag vill ha och tagit bort det jag inte ville ha i denna filen.
