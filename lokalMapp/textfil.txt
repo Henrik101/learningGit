@@ -1,3 +1,3 @@
 
-1 skriver en gång.
-2 lägger till en rad och commitar
+1 skriver en andra gång i ny bransch xx gång.
+2 lägger till (avbryter här) en rad och commitar
